@@ -1,6 +1,6 @@
 ![logo](https://github.com/chamikadeemantha/chamikadeemantha/blob/main/White%20Minimalist%20Data%20Analyst%20LinkedIn%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm Chamika Deemantha</h1>
-<h3 align="center">A passionate Data Science/Data Analysist from Sri Lanka</h3>
+<h3 align="center">A passionate Data Science/Data Analysis from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamikadeemantha&label=Profile%20views&color=0e75b6&style=flat" alt="chamikadeemantha" /> </p>
 
