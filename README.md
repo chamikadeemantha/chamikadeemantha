@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chamika Deemantha</h1>
 <h3 align="center">A passionate Data Science/Data Analysist from Sri Lanka</h3>
 <img align="right" alt="coding" width="400" src="https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fraw.githubusercontent.com%2FSupianIDz%2FSupianIDz%2Fmain%2Fcoding.gif&imgrefurl=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&docid=dhiOHTa81iEZmM&tbnid=55jyr3BK5duBpM&vet=12ahUKEwilnJ719YWHAxUE1DgGHTrxAW0QM3oECHkQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwilnJ719YWHAxUE1DgGHTrxAW0QM3oECHkQAA">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamikadeemantha&label=Profile%20views&color=0e75b6&style=flat" alt="chamikadeemantha" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=chamikadeemantha&label=Profile%20views&color=0e75b6&style=flat](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)" alt="chamikadeemantha" /> </p>
 
 - 📫 How to reach me **chamikade01@gmail.com**
 
